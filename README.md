@@ -34,6 +34,6 @@ docker ps
 ```
 
 ```PS
-docker exec -it <ID_DO_CONTAINER> bash
+docker exec -it <CONTAINER ID> bash
 cd files
 ```
